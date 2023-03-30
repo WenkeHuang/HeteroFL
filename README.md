@@ -1,1 +1,1 @@
-# HeteroFL
+# Hetergeneous Federated Learning
