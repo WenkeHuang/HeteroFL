@@ -43,7 +43,7 @@ Please kindly cite these papers in your publications if it helps your research:
 ```
 ```bibtex
 @inproceedings{FGSSL_IJCAI23,
-    title={Rethinking Federated Learning with Domain Shift: A Prototype View},
+    title={Federated Graph Semantic and Structural Learning},
     author={Huang, Wenke and Wan, Guancheng and Ye, Mang and Du, Bo},
     booktitle={IJCAI},
     year={2023}
